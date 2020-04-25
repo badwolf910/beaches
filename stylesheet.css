@@ -59,7 +59,6 @@
     color: #fff ;
     background-color: #555 !important;
 }
-}
   
 
 .dropdown-menu li a {
@@ -69,4 +68,25 @@
   
 .dropdown-menu li a:hover {
     background-color: red !important;
+  }
+  footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 32px;
+  }
+  
+  footer a {
+    color: #f5f5f5;
+  }
+  
+  footer a:hover {
+    color: #777;
+    text-decoration: none;
+  }
+  body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+  }
+  .navbar {
+    font-family: Montserrat, sans-serif;
   }
